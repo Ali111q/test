@@ -1,0 +1,7 @@
+<resources>
+<string name ="app_name">Helia</string>
+<string name="facebook_app_id">511549044033653</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">44346d974fd6a4194252a0bc0c038b72</string>
+
+</resources>

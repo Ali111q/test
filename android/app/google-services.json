@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829557753002",
+    "project_id": "maxware-test",
+    "storage_bucket": "maxware-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829557753002:android:8a6988a379c3b4f964fcd3",
+        "android_client_info": {
+          "package_name": "com.maxware.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829557753002-emmvpefsbqrjcrcsq7u5bfubnkut0p90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxware.test",
+            "certificate_hash": "0186990d4d0e445d0c34077ed95e334c46c595d1"
+          }
+        },
+        {
+          "client_id": "829557753002-41e29mpu5san70v332eoalqae2j3abrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLgeXR2hqh-HIbSXoY-Y1RFaP8K2a3oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829557753002-41e29mpu5san70v332eoalqae2j3abrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
